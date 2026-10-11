@@ -217,7 +217,7 @@ if (installBtn) {
 
 // 3. Completely hide the button if the app is successfully installed
 window.addEventListener('appinstalled', () => {
-  console.log('Fast & Furious PWA was successfully installed.');
+  console.log('Medi Guide PWA was successfully installed.');
   deferredPrompt = null;
   if (installBtn) {
     installBtn.setAttribute('hidden', '');
