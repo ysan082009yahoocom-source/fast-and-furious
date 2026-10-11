@@ -1,6 +1,6 @@
 {
-  "name": "Fast & Furious First Aid",
-  "short_name": "FA First Aid",
+  "name": "MediGuide",
+  "short_name": "MG First Aid",
   "description": "An offline-ready first aid and med kit reference guide organized by emergency type.",
   "start_url": "./index.html",
   "scope": "./",
